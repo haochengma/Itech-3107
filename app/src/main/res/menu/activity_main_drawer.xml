@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_courseEntry"
+            android:title="Course Information Entry" />
+        <item
+            android:id="@+id/nav_InformationEntry"
+            android:title="Student Information Entry" />
+        <item
+            android:id="@+id/nav_QueryStu"
+            android:title="Query Student Information delete" />
+        <item
+            android:id="@+id/nav_call"
+            android:title="Class Attendance" />
+        <item
+            android:id="@+id/nav_look"
+            android:title="Look Class Attendance" />
+
+        <item
+            android:id="@+id/nav_Exit"
+            android:title="Exit Application" />
+    </group>
+</menu>

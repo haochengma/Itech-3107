@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Class Attendance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">xxx</string>
+    <string name="nav_header_subtitle">xxx@qq.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="create_database">Create Database</string>
+    <string name="clear_database">Clear Database</string>
+    <string name="clear_data">Reset Data</string>
+</resources>
